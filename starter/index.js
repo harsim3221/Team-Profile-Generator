@@ -226,16 +226,4 @@ addManager()
   });
 
 
-  // function to initialize program
-// function init()
-// {
-//    inquirer.prompt(teamArray)
-//    .then(function(nameInput) {
-//        console.log(nameInput)
-//        writeToFile("index.js", pageTemplate(userInput));
-//    });
-
-// };
-
-// function call to initialize program
-// init();
+  
